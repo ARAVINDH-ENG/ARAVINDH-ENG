@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Emotion Detection using edge AI<br>🌱 I’m currently driving deep into Cutting Edge Artificial Intelligence<br>👯 I’m looking to collaborate on Open Source Projects<br>💬 Ask me about Python, Java, SQL Databases, Machine Learning, and Data Analysis<br>📫 How to reach me aravindhr2004@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1OvS-Jsb7RFbb1uyhpCuCEiCus4qbWKwQ/view?usp=sharing<br>🎲 Fun fact Your Arduino Nano 33 BLE Sense can run AI models locally, making it a tiny yet powerful supercomputer for real-time machine learning!</p>
+<p align="left">🔭 I’m currently working on Emotion Detection using edge AI<br>🌱 I’m currently driving deep into Cutting Edge Artificial Intelligence<br>👯 I’m looking to collaborate on Open Source Projects<br>💬 Ask me about Python, Java, SQL Databases, Machine Learning, and Data Analysis<br>📫 How to reach me aravindhr2004@gmail.com<br>📄 Know about my experiences [https://drive.google.com/file/d/1OvS-Jsb7RFbb1uyhpCuCEiCus4qbWKwQ/view?usp=sharing](https://drive.google.com/file/d/1NB19VjqZ4LzlXIUysaKcKftyv5_mLvrr/view?usp=drive_link)<br>🎲 Fun fact Your Arduino Nano 33 BLE Sense can run AI models locally, making it a tiny yet powerful supercomputer for real-time machine learning!</p>
 
 ###
 
