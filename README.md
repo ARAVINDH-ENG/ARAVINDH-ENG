@@ -110,6 +110,16 @@
 
 ###
 
+
+###
+<h2 aligh="left">Leetcode status</h2>
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aravindh_R_mcet?theme=dark&font=Marmelad&ext=contest)
+
+
+
+###
 <h2 align="left">Stats</h2>
 
 ###
@@ -124,7 +134,6 @@
 <div align="center">
 </div>
 
-###
 
 <h2 align="left">Profile views</h2>
 
